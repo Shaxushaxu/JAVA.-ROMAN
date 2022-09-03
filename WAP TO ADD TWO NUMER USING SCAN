@@ -1,0 +1,13 @@
+import java.util.scanner;
+clas Add with scan
+{
+public static void main(string arg[])
+{
+scanner s=new scanner(system.in);
+int m,n,p;
+m=s.next int ();
+n=s.next int();
+p=m+n;
+system.out.println(m+"+"+n+"="+p);
+}
+}
