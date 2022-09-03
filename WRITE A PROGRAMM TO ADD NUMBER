@@ -1,0 +1,11 @@
+class Add num
+{
+punlic static void main (string arg [])
+{
+int m=2
+int n=3
+int p;
+p=m+n;
+system.out.println(m="="+n+"="=p);
+}
+}
